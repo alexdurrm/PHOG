@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 
 image_path = "image_0058.jpg"
-bin = 8
+S = 8
 angle = 360
 Level = 3
 roi = [1,225,1,300]
